@@ -1,4 +1,4 @@
-# 🎲 Python Backgammon Game
+# 🎲 Python Backgammon Game(AI)
 
 Welcome to the Python Backgammon Game! This is a simplified version of the classic Backgammon board game, implemented using Python. The game is divided into two main components:
 
