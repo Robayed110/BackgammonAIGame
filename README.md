@@ -7,10 +7,6 @@ Welcome to the Python Backgammon Game! This is a simplified version of the class
 
 You must **run the game from `GUI.py`** to start playing.
 
----
-
-## 📁 Project Structure
-
 
 ---
 
