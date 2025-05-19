@@ -14,6 +14,6 @@ You must **run the game from `GUI.py`** to start playing.
 
 ### Step 1: Clone or Download the Repository
 ```bash
-git clone https://github.com/your-username/backgammon-python.git
+git clone https://github.com/Robayed110/BackgammonAIGame.git
 cd backgammon-python
 python GUI.py
